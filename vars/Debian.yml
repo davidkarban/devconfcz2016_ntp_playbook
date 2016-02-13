@@ -6,7 +6,7 @@ ntp_service: ntp
 ntp_conf_dir: /etc/
 ntp_conf_name: ntp.conf
 
-ntp_default_servers:
+ntp_servers:
   - "0.debian.pool.ntp.org"
   - "1.debian.pool.ntp.org"
   - "2.debian.pool.ntp.org"
